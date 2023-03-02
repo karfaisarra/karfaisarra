@@ -13,7 +13,6 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning Java  
   
@@ -24,11 +23,6 @@
 - 🌎 Contact me: karfaisarra@gmail.com  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
